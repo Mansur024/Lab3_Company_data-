@@ -1,0 +1,24 @@
+{
+  "created": "20261107_015051",
+  "archive_sha256": "76d3deeaf417609697445914d9bc08a1c942faa468f7d7379a112485ce5d4635",
+  "files": {
+    "buh\\report_1.csv": "8ba8159d7c0adc1a98f850873ab161fcdcc90701dee1c61fa4aeae7983847f6a",
+    "buh\\report_2.csv": "ffde7ac3bd4cad48faa4b2644ffc9d0100f4768a3d0e16d7a2a6fba5685b0464",
+    "buh\\report_3.csv": "e21c735837913e7da7cb3659c3da29c1f8911bbf9d2985259686c1717579452d",
+    "buh\\report_4.csv": "183412d4620291f19b8f3adbfc30e55b025acb53b615fe69262a552689d6b19c",
+    "buh\\report_5.csv": "50713555f09f256ad77b04548537bf1fafb5088cbb9f3601aa81d7d2046b531c",
+    "buh\\report_6.csv": "3debd89ad437f31b6defce36f87423334c4a4fb64e35d022e25e078f71fd4402",
+    "it\\report_1.csv": "04077b89272a23867c99cd3b1cc9d84f3d20c188d66ed7e2568fa879e959e13b",
+    "it\\report_2.csv": "3bf694af28bced146a9ab2417610a4eab1973f5f47aa41aa0d97889d75066bff",
+    "it\\report_3.csv": "32136fcbd19eb405c344eef856660e18106c1480a0a3dc274ebe36ebcffaaa4c",
+    "it\\report_4.csv": "dae49455c6271511174040ede44465646a08a0233f70cbdc0d342153966aa712",
+    "it\\report_5.csv": "2fbc6336a879f7f6b526253e320d007122578115342425ab33ed2daf005cfc67",
+    "it\\report_6.csv": "0e7b64787871cc7b8afeb34f92adcdcd63fd3b43b5fcb83c2a505239de70d338",
+    "kadry\\report_1.csv": "f3f73b124e942f3656c6271311fc93e0f61d6c7be1112fc13d1373c2ba1458c0",
+    "kadry\\report_2.csv": "ea3836f8eb5a6e4ddb83e3093de69a0bef27c1564daaa922172584b3dfbb8370",
+    "kadry\\report_3.csv": "b045ed519c80c4c733b65c1191be51ea561ee58454cf5e6b936c0744a7136592",
+    "kadry\\report_4.csv": "c7da8897b99add0d2e157ee52ecb21166b77bd2302942a30e5ed9fe7a97c6da8",
+    "kadry\\report_5.csv": "1c769f7d55ece1c1ba04d941f5f76c3279f3a98d3684ebb84e68eb1d089594e4",
+    "kadry\\report_6.csv": "e419c2e203f8222700556f1730c03d097cbaefb8f9b09ee14dbe96088089cf70"
+  }
+}
